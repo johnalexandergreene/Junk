@@ -1,0 +1,11 @@
+Put an icon on each cell.
+monochrome bitmap.
+so it's 2 colors, the cell color and the bitmap color.
+
+Bitmap is line art. An eye or a spiral or a a fly or something. It is derived from a vector model.
+
+Icon bitmaps are cached for each cell, for speed. We have a dozen or so. It's a 1 bit bitmap. We keep an array of them and refer to them by index, just like for color.
+
+We have a separate scanning process for the cell icons.  Instead of changing colors we change icons. So 2 scanner systems.
+
+Cell background drawn in color0 + icon drawn in color1. Color1 is some varient of color0 : darker or something.

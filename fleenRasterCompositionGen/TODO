@@ -1,0 +1,8 @@
+User-editable renderers
+Curve-processed renderers
+Smarter colorization in renderers. A HSV space navigator type renderer maybe.
+A snappy skin.
+User-editable symmetry controller functions.
+
+- keep the iteration depth controllable, i would like for example to watch the development of smaller entries, or would like to watch the first/second/third... iteration
+

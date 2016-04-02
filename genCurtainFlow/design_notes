@@ -1,0 +1,13 @@
+scrolling flow
+
+FRESHNESS param
+
+controls the rate at which stripe models are replavced with new stripe models.
+
+we'll have 4 or 5 stripe types and 2 or 3 subtypes within each type
+
+we will repeat stripe type/subtypes to save resources.
+
+greater freshness means greater frequency of new stripe/subtype creation.
+
+less freshness means more repeats.

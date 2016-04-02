@@ -1,0 +1,40 @@
+RAINBOW KING
+RAINBOW TRIUMPH
+RAINBOW ARMADILLO
+RAINBOW BREEZE
+GRAPHIC BACH
+INVOLUTION OCEAN
+THE MAN WHO FOLDED HIMSELF
+
+
+stick all params at the top. finish that interface
+
+stick all constants in the constants class(?)
+
+do cell creation with the smaller increment-boxes for finer port fitting 
+DONE
+
+do palette system. 
+
+rainbow is fixed, monochrome is gonna be roygbv and grayscale is fixed. so 8 palettes or something
+
+we don't really wanna deal with a complex android interface
+
+params
+excitement (# of scanners)
+palette
+speed
+density
+
+palettenames
+rainbow
+shadow
+tangerine (light orange)
+ice (light blue)
+sky (dark blue)
+banana (light yellow)
+sunlight (dark yellow)
+etc
+total 14 or so
+
+

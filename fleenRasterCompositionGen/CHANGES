@@ -1,0 +1,20 @@
+2013_03_13 
+Tweaked message box.
+
+2013_03_16
+Made Log stuff nicer.
+
+2013_03_17
+did config file. cleaned up exception handling.
+
+2013_03_20
+improved ui. improved rendering.
+did mouse controlled scale and pan on viewer
+
+2013_03_21
+did a few dumb renderers
+did a few symmetry control functions
+set version to 0.2 alpha
+
+
+
